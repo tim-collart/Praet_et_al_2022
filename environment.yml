@@ -1,0 +1,8 @@
+name: praetetal2022
+channels:
+ - conda-forge
+dependencies:
+ - r-base
+ - r-extremevalues
+ - r-irkernel
+ - jupyter
