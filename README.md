@@ -1,4 +1,4 @@
-# Supplement to Praet et al. (2022) [ADD CODE DOI]
+# Supplement to Praet et al. (2022)
 
 This repository holds the data and R jupyter notebook used in the analysis of sediment cores from Sklilak Lake, Alaska. Supplement to the research article in Sedimentology titled "Unravelling a 2300 year long sedimentary record of megathrust and intraslab earthquakes in proglacial Skilak Lake, south-central Alaska" by Praet et al. (2022). doi: [ADD PAPER DOI]
 
