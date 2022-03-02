@@ -13,5 +13,5 @@ conda activate praetetal2022
 jupyter notebook
 ```
 
-Alternatively, you reproduce the analysis in an interactive online binder notebook  [ADD BINDER]
+Alternatively, you reproduce the analysis in an interactive online binder notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tim-collart/Praet_et_al_2022/HEAD?urlpath=detectoutliers.ipynb)
 
