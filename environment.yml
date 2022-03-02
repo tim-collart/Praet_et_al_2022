@@ -2,7 +2,7 @@ name: praetetal2022
 channels:
  - conda-forge
 dependencies:
- - r-base
+ - r-base=4.1.2
  - r-extremevalues
  - r-irkernel
  - jupyter
